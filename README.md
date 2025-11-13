@@ -28,11 +28,11 @@ A web application that predicts house prices based on user-provided features usi
 ## Project Structure
 housepricepredictioninv/
 
-─ app.py # Flask application
-─ house_price_prediction_model.h5 # Trained neural network model
-─ scaler.pkl # Saved scaler object for feature scaling
-─ templates/
-─ index.html # Frontend HTML page
-─ static/
-─ (optional: CSS/JS/images)
+- app.py # Flask application
+- house_price_prediction_model.h5 # Trained neural network model
+- scaler.pkl # Saved scaler object for feature scaling
+- templates/
+- index.html # Frontend HTML page
+- static/
+- (optional: CSS/JS/images)
 
